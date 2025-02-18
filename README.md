@@ -31,7 +31,7 @@ Add the plugin to your `pom.xml`:
     <plugin>
       <groupId>ru.l3r8y</groupId>
       <artifactId>prefix-enforcer-maven-plugin</artifactId>
-      <version>1.0.0</version>
+      <version></version>
       <executions>
         <execution>
           <goals>
